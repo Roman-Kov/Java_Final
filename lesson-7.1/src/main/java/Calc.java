@@ -7,15 +7,15 @@ public class Calc {
         this.b = b;
     }
 
-    public int summ(int a, int b){
+    public int summ(){
         return a + b;
     }
 
-    public int diff(int a, int b){
+    public int diff(){
         return a - b;
     }
 
-    public int mult(int a, int b){
+    public int mult(){
         return a * b;
     }
 }
